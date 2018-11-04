@@ -1,9 +1,10 @@
 #!/usr/bin/env ruby
 require_relative "../lib/greeting.rb"
 
+# code your CLI here!
+
 puts Sup bro.
 puts What is your name?
 name = puts.strip
 greeting(name)
 
-# code your CLI here!
