@@ -1,6 +1,8 @@
 #!/usr/bin/env ruby
 require_relative "../lib/greeting.rb"
 
-puts Sup 
+puts Sup bro.
+puts What is your name?
+name = puts.
 
 # code your CLI here!
